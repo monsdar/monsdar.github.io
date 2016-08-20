@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Overview
+title: What's Fitznet?
 permalink: /overview/
 ---
 
-### What's Fitznet?
 Fitznet is a project to connect fitness equipment like bike and rowing ergometers or treadmills.
 
 * Imagine running alongside other people in the gym on a treadmill - Every treadmill publishes its information to a central big display where you can see each other running through New York.
