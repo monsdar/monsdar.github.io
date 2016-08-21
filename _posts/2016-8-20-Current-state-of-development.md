@@ -4,7 +4,9 @@ title: Current state of development
 ---
 
 Currently we're working with 2 developers on creating the basics of Fitznet. Just recently we got our first prototype running:
-It was possible to row on my Concept2 rowing ergometer alongside with 4 computer generated rowers. All the boats were visualized on an endless 3D-river.
+It was possible to row on my Concept2 rowing ergometer alongside with 4 computer generated rowers. All the boats were visualized on an endless 3D-river. See the the whole post for a summary of the components.
+
+<!-- BREAK -->
 
 ### FitzLane
 This component manages the different trainees. The following trainee-types are usable at the momemnt:
