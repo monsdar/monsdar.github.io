@@ -3,12 +3,12 @@ layout: post
 title: Fitzlane UI overhaul
 ---
 
-So far we were working with a UI-prototype of Fitzlane. It wasn't important how the application looked, our priority was to get all the features running we wanted in there.
+So far we were working with a UI-prototype of Fitzlane. It wasn't important how the application looked, our priority was to get all the features running we wanted in there. In the last days we made lot of progress, the only thing that prohibited us from showing FitzLane was the ugly UI. So today I sat down and did a complete overhaul. See the rest of the post for some screenshots.
+
+<!-- BREAK -->
 
 Here's a picture of the old UI:
 ![Old UI](https://docs.google.com/uc?id=0B12hfM-qzxIyVHhJMkFsZmxTSVU)
-
-In the last days we made lot of progress, so far that the only thing that prohibited us from showing FitzLane was the ugly UI. So today I took all my UI-experience (which is not much) and did a complete overhaul.
 
 Here's the result:
 ![New UI](https://docs.google.com/uc?id=0B12hfM-qzxIyWDhwaFBZYWE3NFk)
